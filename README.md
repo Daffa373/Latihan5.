@@ -11,7 +11,7 @@
 
 # Soal Latihan Praktikum ( Pegawai )
 
-![alt text](gambar/image-16.png)
+![alt text](GAMBAR/image-16.png)
 
 **Perintah SQL :**
 
